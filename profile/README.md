@@ -32,7 +32,7 @@
     - String 인 uuid 를 binary16 으로 변경해 데이터베이스 저장공간 확보
 - 쿠폰 발급시 polling 방식을 사용
     - ajax 통신을 사용해 1초(10초 까지)마다 coupon 서버에 확인
-    - ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/848e6245-a30b-4ff9-b559-932ccf6e1762/Untitled.png)
+    - ![Untitled](https://github.com/nhnacademy-be3-baegopa/.github/assets/70000247/4a28ae2f-57aa-4149-a6d0-830408254ab1)
 - 회원가입 쿠폰 발급
     - feignClient 를 사용해 회원가입 쿠폰발급시 다른 api 서버와 통신해 쿠폰 데이터 저장
     - 회원가입시 쿠폰 발급에 문제가 생겨도 회원가입 트랜잭션에는 문제없도록 처리
