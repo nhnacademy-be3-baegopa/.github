@@ -66,11 +66,14 @@
 
 
 담당자: 한제우 
-![스크린샷 2023-08-16 오후 10 04 49](https://github.com/nhnacademy-be3-baegopa/.github/assets/125388076/2e2c8c58-35cc-4538-a35c-f9381a9189d4)
 
 - 장바구니, 주문, 결제의 흐름도
 
+![스크린샷 2023-08-16 오후 10 04 49](https://github.com/nhnacademy-be3-baegopa/.github/assets/125388076/2e2c8c58-35cc-4538-a35c-f9381a9189d4)
 
+
+
+- 장바구니 동작 화면의 예
   
 
 ![sample](https://github.com/nhnacademy-be3-baegopa/.github/assets/50386803/836ffe4f-d00e-43ca-ba30-efee4b818808)
