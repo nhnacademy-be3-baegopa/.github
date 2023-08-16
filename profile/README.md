@@ -73,7 +73,7 @@
 
 
 
-- 장바구니 동작 화면의 예
+- 장바구니 동작 화면
   
 
 ![sample](https://github.com/nhnacademy-be3-baegopa/.github/assets/50386803/836ffe4f-d00e-43ca-ba30-efee4b818808)
