@@ -398,10 +398,14 @@ front->>c: 매장 목록 응답
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/spring%20security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Spring Websocket](https://img.shields.io/badge/spring%20websocket-6DB33F?style=flat&logo=spring&logoColor=white)
+</br>
 ![Spring Cloud](https://img.shields.io/badge/spring%20cloud-3693F3?style=flat&logo=googlecloud&logoColor=white)
+![Spring Gateway](https://img.shields.io/badge/spring%20gateway-3693F3?style=flat&logo=googlecloud&logoColor=white)
+![Spring Eureka](https://img.shields.io/badge/spring%20eureka-3693F3?style=flat&logo=googlecloud&logoColor=white)
+</br>
 ![SpringDataJPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![Spring Batch](https://img.shields.io/badge/spring%20batch-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Websocket](https://img.shields.io/badge/spring%20websocket-6DB33F?style=flat&logo=spring&logoColor=white)
 ![QueryDSL](http://img.shields.io/badge/QueryDSL-4479A1?style=flat-square&logo=Hibernate&logoColor=white)
 
 ### Database
