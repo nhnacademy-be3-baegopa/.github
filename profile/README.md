@@ -386,3 +386,11 @@ front->>c: 매장 목록 응답
     - retry 정책 : `ConnectTimeoutException`의 경우에만 최대 3번 재실행
     - skip 정책 : 모든 exception에 대해 모두 skip하고 no rollback 적용 → 결과적으로 문제없는 케이스는 DB에 저장되고 오류로 인해 DB에 저장되지 않는 데이터는 로그 및 두레이 알림으로 기록된다.
     - 배치 코드 재실행해도 문제 없도록 작성
+
+---
+
+# ERD
+
+![baegopa-v0 5 1](https://github.com/nhnacademy-be3-baegopa/.github/assets/70000247/af1e3f2b-db73-4371-ba18-09d8398f0e83)
+
+
