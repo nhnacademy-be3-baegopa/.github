@@ -387,9 +387,3 @@ front->>c: 매장 목록 응답
     - skip 정책 : 모든 exception에 대해 모두 skip하고 no rollback 적용 → 결과적으로 문제없는 케이스는 DB에 저장되고 오류로 인해 DB에 저장되지 않는 데이터는 로그 및 두레이 알림으로 기록된다.
     - 배치 코드 재실행해도 문제 없도록 작성
 
----
-
-# ERD
-
-![baegopa-v0 5 1](https://github.com/nhnacademy-be3-baegopa/.github/assets/70000247/ca3fb166-2699-434c-ab1e-e373c8556c63)
-
