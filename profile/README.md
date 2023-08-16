@@ -391,6 +391,5 @@ front->>c: 매장 목록 응답
 
 # ERD
 
-![baegopa-v0 5 1](https://github.com/nhnacademy-be3-baegopa/.github/assets/70000247/af1e3f2b-db73-4371-ba18-09d8398f0e83)
-
+![baegopa-v0 5 1](https://github.com/nhnacademy-be3-baegopa/.github/assets/70000247/ca3fb166-2699-434c-ab1e-e373c8556c63)
 
