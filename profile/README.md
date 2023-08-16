@@ -399,12 +399,14 @@ front->>c: 매장 목록 응답
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/spring%20security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 ![Spring Websocket](https://img.shields.io/badge/spring%20websocket-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring RestDocs](https://img.shields.io/badge/spring%20RESTdocs-6DB33F?style=flat&logo=spring&logoColor=white)
 </br>
 ![Spring Cloud](https://img.shields.io/badge/spring%20cloud-3693F3?style=flat&logo=googlecloud&logoColor=white)
 ![Spring Gateway](https://img.shields.io/badge/spring%20gateway-3693F3?style=flat&logo=googlecloud&logoColor=white)
 ![Spring Eureka](https://img.shields.io/badge/spring%20eureka-3693F3?style=flat&logo=googlecloud&logoColor=white)
 </br>
 ![SpringDataJPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=Spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-ED1C24?style=flat&logo=bitdefender&logoColor=white)
 ![Spring Batch](https://img.shields.io/badge/spring%20batch-6DB33F?style=flat&logo=spring&logoColor=white)
 ![QueryDSL](http://img.shields.io/badge/QueryDSL-4479A1?style=flat-square&logo=Hibernate&logoColor=white)
 
@@ -429,6 +431,7 @@ front->>c: 매장 목록 응답
 ### ETC
 ![Rabbit MQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat&logo=auth0&logoColor=white)
 ![Junit5](https://img.shields.io/badge/Junit5-25A162?style=flat&logo=Junit5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
