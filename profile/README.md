@@ -1,3 +1,14 @@
+# BAEGOAP
+![logo_down](https://github.com/nhnacademy-be3-baegopa/.github/assets/70000247/1dc2ddd5-d618-4c43-a786-d12474264a1d)
+
+---
+### 팀 구성
+
+### [@김현준](https://github.com/yoho94)
+### [@이소라](https://github.com/sora0303)
+### [@김종명](https://github.com/lightbell03)
+### [@한제우](https://github.com/hanjaewoo98)
+
 ## 메뉴
 
 ### 담당자: 김종명
