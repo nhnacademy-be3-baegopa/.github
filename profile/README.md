@@ -1,4 +1,4 @@
-# BAEGOAP
+# BAEGOPA
 ![logo_down](https://github.com/nhnacademy-be3-baegopa/.github/assets/70000247/1dc2ddd5-d618-4c43-a786-d12474264a1d)
 
 ---
