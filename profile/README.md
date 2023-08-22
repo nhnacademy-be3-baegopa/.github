@@ -406,6 +406,7 @@ front->>c: 매장 목록 응답
     - 사업자 진위확인 API, 카카오 지도 API 등 다양한 API를 비동기적으로 호출 처리
 - 동기적 생성 및 수정
     - 운영시간, 휴일 생성 및 수정 시 페이지를 리로드하지 않고 javascript template을 활용해서 동기적으로 생성 및 수정 처리
+- 사용기술 : Spring Data JPA, Query DSL, Thymeleaf, javascript 등
 
 ## 포인트
 
@@ -413,7 +414,7 @@ front->>c: 매장 목록 응답
 
 - 주문, 회원가입, 리뷰 작성 등에 사용되는 포인트 사용, 적립, 조회, 환불 처리
 - 사용자의 편의성을 위해 다양한 오버로딩 활용
-- 사용기술 : querydsl
+- 사용기술 : Spring Data JPA, Query DSL
 
 ## 리뷰
 
@@ -425,7 +426,7 @@ front->>c: 매장 목록 응답
     - 해당 총 리뷰에서 메뉴 리뷰가 존재한다면 메뉴 리뷰를 수정할 수 있고, 메뉴 리뷰가 존재하지 않는다면 메뉴 리뷰를 작성할 수 있도록 동적으로 처리
 - 각각의 메뉴와 메뉴 리뷰를 연동하여 메뉴에서 별점 및 리뷰 확인 가능
 - 최신순, 낮은별점순, 높은별점순, 평균 평점 및 리뷰 수 등 통계기능 제공
-- 사용기술 : querydsl
+- 사용기술 : Spring Data JPA, Query DSL, Thymeleaf, javascript 등
 
 ## 파일
 
@@ -446,7 +447,9 @@ front->>c: 매장 목록 응답
 - 예외 처리
     - 파일 아이디가 null이거나, url은 존재하나 http 요청 후 존재하지 않는 파일임이 확인될 경우 특정 파일 호출
 - 이미지 썸네일 유연화 
-    - 이미지 요청 시 파라미터를 통해 원하는 썸네일대로 이미지를 생성 및 호출할 수 있음
+    - 이미지 요청 시 파라미터를 통해 원하는 썸네일대로 이미지를 생성 및 호출할 수 있음  
+- 사용기술 : Object Storage, Image Manager, Spring Data JPA 등
+
 
 ## Batch
 
@@ -464,6 +467,16 @@ front->>c: 매장 목록 응답
     - retry 정책 : `ConnectTimeoutException`의 경우에만 최대 3번 재실행
     - skip 정책 : 모든 exception에 대해 모두 skip하고 no rollback 적용 → 결과적으로 문제없는 케이스는 DB에 저장되고 오류로 인해 DB에 저장되지 않는 데이터는 로그 및 두레이 알림으로 기록된다.
     - 배치 코드 재실행해도 문제 없도록 작성
+- 사용기술 : Spring Batch, MyBatis, Dooray API 등
+
+
+## 데이터베이스 관리(DBA)
+
+### 담당자: 이소라
+- ERD Cloud 및 MySql 데이터 관리 및 업데이트, 깃허브 업로드
+- 버전별 ddl 작성 및 업데이트, code table 및 dummy data sciprt 등 관리
+
+
 ---
 
 # Skill set
