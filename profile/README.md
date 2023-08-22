@@ -474,7 +474,7 @@ front->>c: 매장 목록 응답
 
 ### 담당자: 이소라
 - ERD Cloud 및 MySql 데이터 관리 및 업데이트, 깃허브 업로드
-- 버전별 ddl 작성 및 업데이트, code table 및 dummy data sciprt 등 관리
+- 버전별 ddl 작성 및 업데이트, code table 및 dummy data script 등 관리
 
 
 ---
