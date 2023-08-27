@@ -494,8 +494,15 @@ front->>c: 매장 목록 응답
 # 테스트
 ### Sonar Qube
 - test coverage
+### Store API
+<img width="1305" alt="store_api_test_coverage" src="https://github.com/nhnacademy-be3-baegopa/.github/assets/70000247/0e405af8-3cda-4d38-b1be-92b191d00a05">
+
+### Coupon API
+<img width="1324" alt="coupon_api_test_coverage" src="https://github.com/nhnacademy-be3-baegopa/.github/assets/70000247/ec6c9ba5-3521-40e8-9f07-eaebaba4a0bb">
+
 
 ### 부하테스트
+
 - nGrinder
 
 ---
