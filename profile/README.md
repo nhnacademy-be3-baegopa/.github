@@ -12,6 +12,7 @@
 
 # WBS
 https://docs.google.com/spreadsheets/d/1KfMOusPvU6z0kEWEr3EvL9mK_K1yDBH-OVwCcWxwHzs/edit?pli=1#gid=42995231
+<img width="518" alt="wbs" src="https://github.com/nhnacademy-be3-baegopa/.github/assets/127469035/9cb9d2b4-98c0-491c-bf49-08a022d62797">
 
 ---
 
