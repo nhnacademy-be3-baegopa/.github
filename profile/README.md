@@ -90,9 +90,16 @@ https://docs.google.com/spreadsheets/d/1KfMOusPvU6z0kEWEr3EvL9mK_K1yDBH-OVwCcWxw
 
 - Prometheus
 - Grafana
+    - ![image](https://github.com/nhnacademy-be3-baegopa/.github/assets/50386803/a12fd7d8-ae66-4613-b729-7c164ac4f9ff)
+    - ![image](https://github.com/nhnacademy-be3-baegopa/.github/assets/50386803/d2a2b804-6e6c-4551-8b53-fcecdf8bba98)
+
 - AlertManager
     - 서버에 이상이 생기면 Dooray Message로 알림 전송
+    - ![image](https://github.com/nhnacademy-be3-baegopa/.github/assets/50386803/98b6b9f4-c013-48d6-9dc2-13fc22e26270)
+
 - Log & Crash
+    - 로그 수집 및 알림
+    - 에러 로그 발생 시 Dooray Message로 알림 전송
 
 ### 코드 품질 관리
 
@@ -504,7 +511,27 @@ front->>c: 매장 목록 응답
 
 ### 부하테스트
 
+- 서버 스펙
+NHN Cloud t2.c1m1 인스턴스
+    - CPU : 1 Core
+    - RAM : 1GB
+    - SSD : 20GB
+
+
 - nGrinder
+![image](https://github.com/nhnacademy-be3-baegopa/.github/assets/50386803/3f7ccab3-851a-4844-87d8-6082e2d38d87)
+
+![image](https://github.com/nhnacademy-be3-baegopa/.github/assets/50386803/62536065-77e0-49bb-b116-4e4ec5ba4279)
+
+![image](https://github.com/nhnacademy-be3-baegopa/.github/assets/50386803/7284118a-47a5-441d-b1d7-1e0e96e5f5ba)
+
+Vuser(동시접속자 수) 60명 기준으로 TPS는 증가하지 않고 점점 응답시간(첫번째 바이트 평균 도달 시간)이 길어집니다.
+
+Vuser가 300명이 넘어가면 서버가 죽습니다. (프론트1, 프론트2)
+
+자동 복구되는 시간은 대략 30 ~ 40분 입니다.
+
+최대 접속자 수 : 60
 
 ---
 
