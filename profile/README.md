@@ -21,7 +21,8 @@ https://docs.google.com/spreadsheets/d/1KfMOusPvU6z0kEWEr3EvL9mK_K1yDBH-OVwCcWxw
 
 ### 아키텍쳐
 
-<img width="2875" alt="배고파 아키텍처 (1)" src="https://github.com/nhnacademy-be3-baegopa/.github/assets/50386803/afe44bb8-1b42-4e8d-a3b3-807398100c39">
+![image](https://github.com/nhnacademy-be3-baegopa/.github/assets/50386803/0b3e15ec-1394-47be-b120-49da284e8bcb)
+
 
 ### 각 시스템별 담당자
 <details>
