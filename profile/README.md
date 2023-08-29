@@ -81,11 +81,18 @@ https://docs.google.com/spreadsheets/d/1KfMOusPvU6z0kEWEr3EvL9mK_K1yDBH-OVwCcWxw
 <img width="1613" alt="배고파 CI_CD (1)" src="https://github.com/nhnacademy-be3-baegopa/.github/assets/50386803/adbc285a-4322-4357-9b7a-b59aef318044">
 
 - 젠킨스
+    - ![젠킨스](https://github.com/nhnacademy-be3-baegopa/.github/assets/50386803/ab4b5fea-3a92-4ed9-b3c1-255fdb05a5d0)
+
 - 깃 액션
+    - ![깃허브](https://github.com/nhnacademy-be3-baegopa/.github/assets/50386803/b9d99fb4-8c86-4c2c-9d58-c634bfe48216)
+
 
 ### Service Discovery
 
 - Spring Cloud Netflix Eureka
+   - Server-Side Load-Balancing
+- Spring Cloud OpenFeign
+   - Client-Side Load-Balancing
 
 ### 모니터링
 
