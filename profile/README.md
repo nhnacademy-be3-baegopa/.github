@@ -13,6 +13,11 @@
 # WBS
 https://docs.google.com/spreadsheets/d/1KfMOusPvU6z0kEWEr3EvL9mK_K1yDBH-OVwCcWxwHzs/edit?pli=1#gid=42995231
 
+-----
+
+# ERD
+![Image](https://github.com/nhnacademy-be3-baegopa/etc/assets/127469035/503b0a4e-aff6-4b60-8c9d-250e8376199d)
+
 ---
 
 # 인프라
