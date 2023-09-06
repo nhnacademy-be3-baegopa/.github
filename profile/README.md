@@ -16,7 +16,7 @@ https://docs.google.com/spreadsheets/d/1KfMOusPvU6z0kEWEr3EvL9mK_K1yDBH-OVwCcWxw
 -----
 
 # ERD
-![Image](https://github.com/nhnacademy-be3-baegopa/etc/assets/127469035/503b0a4e-aff6-4b60-8c9d-250e8376199d)
+![Image](https://github.com/nhnacademy-be3-baegopa/etc/assets/127469035/b903fe24-6f1e-4000-b094-9535bafe3c68)
 
 ---
 
