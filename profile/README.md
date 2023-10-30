@@ -11,7 +11,7 @@
 -----
 
 # 홈페이지 시연
-[https://docs.google.com/spreadsheets/d/1KfMOusPvU6z0kEWEr3EvL9mK_K1yDBH-OVwCcWxwHzs/edit?pli=1#gid=42995231](https://github.com/nhnacademy-be3-baegopa/.github/assets/127469035/e0695f39-eb1e-4c12-abe2-1f107d60e58b)
+[[https://docs.google.com/spreadsheets/d/1KfMOusPvU6z0kEWEr3EvL9mK_K1yDBH-OVwCcWxwHzs/edit?pli=1#gid=42995231](https://github.com/nhnacademy-be3-baegopa/.github/assets/127469035/e0695f39-eb1e-4c12-abe2-1f107d60e58b)](https://github.com/nhnacademy-be3-baegopa/.github/assets/127469035/60fe8453-d802-48d5-ba1f-9cc3122278e1)
 
 -----
 
